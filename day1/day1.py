@@ -6,6 +6,8 @@ for x in f:
     if len(x) > 0: 
         input.append(int(x))
 
+f.close()
+
 target = 2020
 
 # 2 entries that equal 2020
