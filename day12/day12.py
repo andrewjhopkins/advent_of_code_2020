@@ -75,4 +75,4 @@ def q2(input):
     return getManhattanDistance(distance)
 
 print(q1(input))
-print(q2(input))
+#print(q2(input))
